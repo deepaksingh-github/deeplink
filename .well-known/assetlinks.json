@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ventura.mvp",
+      "sha256_cert_fingerprints": ["DD:0B:85:E7:2A:D4:C6:DF:71:0D:B8:D0:93:D7:88:3B:17:FF:29:7C:08:66:E3:6E:62:44:E8:76:45:1B:31:97"]
+    }
+  }
+]
